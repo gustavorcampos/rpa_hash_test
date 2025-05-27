@@ -1,0 +1,11 @@
+Reduzir o nome das variáveis
+Criar padrão para fluxo do framework e auxiliares
+Utilizar variáveis globais quando necessário. Ex: Tive que puxar leitura json no init e end + Kill Process
+Organizar JSON com partes fixas do template vs dinâmicas para cada projeto
+Criar forma de identificação no projeto referente as partes fixas e dinâmicas
+Chave para executar em produção
+Fila de trabalho MongoDB ou SQLite
+Tratativa de exceção
+Report não depender do excel
+Transforma em função etapa # Enviar e-mail de inicio que está no init
+Se não tiver execução arrumar end process para enviar e-mail corretamente

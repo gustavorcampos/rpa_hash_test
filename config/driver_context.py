@@ -1,0 +1,1 @@
+driver = None  # variável global
