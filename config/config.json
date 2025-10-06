@@ -5,7 +5,7 @@
       "processos_a_fechar": ["excel.exe"],
       "nome_asset_hash_email_code": "EMAIL_HASH_CODE",
       "email_hash": "hash.esports.team@gmail.com",
-      "email_destinatario": "gustavo.campos1989@gmail.com,henriquefcpereira@gmail.com",
+      "email_destinatario": "gustavo.campos1989@gmail.com",
       "nome_processo": "[RPA Challenge]"
     }
   ]
