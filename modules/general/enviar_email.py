@@ -26,3 +26,7 @@ def enviar_email(destinatario, assunto, corpo, remetente, senha_app, anexo=None)
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login(remetente, senha_app)
         smtp.send_message(msg)
+
+
+if __name__ == "__main__":
+    enviar_email('gustavo.campos1989@gmail.com','Teste RPA','Corpo teste','rpadogrc@gmail.com','qpzh fchp lxza roko')
